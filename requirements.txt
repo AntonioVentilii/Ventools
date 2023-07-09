@@ -1,0 +1,11 @@
+easygui
+keyring
+# pywin32
+premailer
+requests
+selenium
+webdriver-manager
+numpy
+pandas
+--index-url=https://bcms.bloomberg.com/pip/simple
+blpapi
